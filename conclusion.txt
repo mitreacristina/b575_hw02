@@ -1,0 +1,7 @@
+What was the most challenging part of this assignment?
+
+I think the most challenge part si to create pull requests
+
+What is one element earn about git and GitHub through this experience?
+
+I learn how to fork and clone repository, which is important when working with others.
