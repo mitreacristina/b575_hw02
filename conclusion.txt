@@ -1,0 +1,3 @@
+The most challenging part of this assignment is to push my branch to forked repository. It initally displayed an error and said there is no upstream. I set upstream to solve the problem.
+
+I found git status is a useful command. It allows me to check what changes I haven't added or committed. Git also requires add and commit to save changes, which is less dangerous.
