@@ -1,0 +1,5 @@
+# The most challenging part of this assignment was ensuring that my pull request was created in the right place. 
+# I was a little bit unsure given the forked repository and branch. 
+
+# Through this experience, I learned how to fork a repository and became more comfortable with how GitHub can be used for groups (i.e. working on a branch then merging that branch into main)
+
