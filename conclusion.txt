@@ -1,0 +1,2 @@
+Tracking and committing changes correctly using Git was the most difficult part.
+I learned how to create and manage branches for better version control.
