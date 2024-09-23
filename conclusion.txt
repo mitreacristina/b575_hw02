@@ -1,0 +1,6 @@
+- What was the most challenging part of this assignment?
+  > Find "creating pull request" on git hub website
+
+
+What is one element you learned about Git and GitHub through this experience?
+ > Learned Fork the Repository
