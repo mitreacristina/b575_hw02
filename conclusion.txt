@@ -1,0 +1,4 @@
+What was the most challenging part of this assignment?
+  For me, it was writing the pseudocode. It's somehow harder for me to write code with no language, but I eventually got it.
+What was one element learned about git and Github?
+  I've never really had to interact with anybody else's repository, so it was interesting for me to fork, branch, and pull request for the first time.
