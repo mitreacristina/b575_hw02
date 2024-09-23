@@ -1,0 +1,5 @@
+The most challenging part of this assignment for me was creating pull requests. 
+Ensuring that I correctly pulled the repository and writing the description part were a little confusing. 
+
+One element I learnt about git and GitHub through this assignment is how to effectively use branches to manage different changes in a project. 
+Learning how to push and pull the repository and creating a new branch for the sequence analysis allowed me to develop the new script independently from the main branch. 
