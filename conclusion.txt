@@ -1,0 +1,8 @@
+What was the most challenging part of the assignment?
+
+The most challenging part of the assingment was creating the initial pseudocode description without AI. Even though I did end up using AI trying to understand the basic logic of how to organize conditionals is unclear to me. 
+
+What is one element I learned about git and GitHub through this experience?
+
+I definetly felt discouraged when learning how to work with the git package initially it does not seem very intuitive. This excersize taught me how to use my git account to make and edit changes on my local machine and then resubmit my proposed collaborator to a
+code based that was created by a potential collaborator.
