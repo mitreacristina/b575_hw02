@@ -1,0 +1,6 @@
+1. The most challenging part of this assignment was figuring out how to
+do a pull request on Github and making sure the settings were correct.
+
+2. Git is incredibly useful if you know how to use it correctly, but
+I think that small mistakes can make file versions very confusing to 
+compare and reconcile.
