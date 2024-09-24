@@ -1,0 +1,8 @@
+#conclusion.txt
+
+The most challenging part is remembering you are on a new branch. 
+It feelds like something to overlook then you forgoet to commit to main.
+
+
+Through this experience, I learned the importance of pull requests in collaborative work. 
+They serve as a structured way to propose changes and facilitate discussions about the modifications before merging them into the main branch.
