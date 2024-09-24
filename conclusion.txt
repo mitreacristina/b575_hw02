@@ -1,0 +1,8 @@
+#  What was the most challenging part of this assignment? 
+## writing the pseudocodes was the most challenging part of the assignment.
+## I felt lost about how to write the pesudocodes and had to use AI.
+
+# What is one element earn about git and GitHub through this experience?
+## I had the chance to practice the skills we learned in the class on how 
+## to use git and github. I learned about creating a fork and seeing the
+## changes when creating a pull request.   
