@@ -1,0 +1,9 @@
+1. The most challenging part of this assignment was trying to create a pull request.
+I wasn't able to assign the pull request to the username "cristinamitrea".
+My best guess for this problem is that I must not have write access to the original repository and hence didn't have the necessary permission$
+Everything else was very straightforward.
+
+2. I learned about the importance of forking and how it is used when you need to copy an entire repository to your GitHub account.           
+I've learnt that forking has many purposes - propose changes to someone's project without having write access to it, using someone else's pro$
+I've also learnt how it is different from branching or cloning - where the former only creates a new branch within the same repository, and t$
+
