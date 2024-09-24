@@ -1,0 +1,7 @@
+
+#What was the most challenging part of this assignment?
+Creating the changes in the correct branch and to the correct files. As I edited the sequence.fasta file I feared I 
+could disrupt the existing data of misformat what I was adding. 
+#What is one element earn about git and GitHub through this experience?
+I realized how useful this tools are to stay organized and to collaborate with others, even with people you might not
+know. I think this assignment really helped me understand how and when to use the pull request.
