@@ -1,2 +1,3 @@
+Question 6; Homework 2
 1. The anxiety of potentially messing up the branches as well as messing up the professors/classes branches. I think this is due to it being a new way to make a workflow. There is also an element of social anxiety since I don’t know if the rest of the class can see what I did in my branch. I can’t let them know I am stupid haha.
 2. What I learned is that it does help a very large group of people work on a project. The fact you keep everything important on a main branch and can still work on the main branch objects in another branch is cool. After you are done working on the new branch, you have the ability to merge it to the main branch, without effecting the other objects in the main branch.
