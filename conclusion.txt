@@ -1,0 +1,3 @@
+echo "Making sure I'm working with the right branch and do not push conflicted are the most challenging part for me."
+
+echo "It's very useful for a team to manage the co-working code if everyone masters the github workflow, it tracks changes clearly and efficiently,"
