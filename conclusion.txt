@@ -1,0 +1,2 @@
+1. Form my perspective, the most challenge part could be creating the pull requests since I never done it before.
+2. Through this experience, I learned that forking is a way to create our own copy of someone else’s repository so we can make changes independently. After making changes in our forked repository, we can create a pull request to propose these changes back to the original project, where they can be reviewed and potentially merged. This experience demonstrates how effective GitHub is for collaborating on projects
