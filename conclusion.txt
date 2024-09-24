@@ -1,0 +1,2 @@
+The most challenging part of this assignment was trying to assign someone to the pull request. I believe that I still wasn't able to figure it out. 
+I realized how git and github are so easily connected and can be intertwined together through commands such as gitpull and git add etc. 
