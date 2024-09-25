@@ -1,0 +1,10 @@
+What was the most challenging part of this assignment?
+The most challenging part of this assignment was managing the Git workflow, 
+particularly understanding how to push changes and create pull requests. 
+Ensuring the correct GitHub branch was selected for the pull request was also
+tricky.
+
+What is one element earn about git and GitHub through this experience?
+I learned how to use Git for version control more effectively, especially how to branch, commit, and push changes to a remote repository. 
+Additionally, I became more familiar with creating pull requests to contribute to 
+projects.
