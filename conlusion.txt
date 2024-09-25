@@ -1,0 +1,11 @@
+#Conclusion.txt
+
+# - The most challenging part of this assignment was remembering all of the different git commands. For this reason,
+# going back through the notes was really helpful in remembering how we used git in class. Specifically, the staging,
+# committing, and pushing changes was something I had forgotten how to do. 
+
+
+# - This experience helped me learn how to visualize what is happening when we make changes to git repositories, and 
+# also how to visualize how branches and forks off an original repository works. Something that I think is interesting
+# is how much git can be used for, before using it in BASH I did not really fully grasp what the purpose of git was,
+# but I now understand its purpose and usefulness.   
