@@ -1,0 +1,2 @@
+1. The most challenging part of this homework was making the pull request because we haven't done that in class.
+2. From this assignment I learned how to submit pull requests and became more comfortable using git.
