@@ -1,0 +1,5 @@
+What was the most challenging part of this assignment?
+I think this assignment was not too challenging given the thorough walkthrough we received in class. The two places where I was most unsure what to do was when I was staging commits. Given that I had only modified the sequence.fasta file, I was a little confused that I had to add the file to stage it, but only because the file wasn't new. This was also the first time I had created a pull request and the naming convention again is a little confusing given that we are submitting the request for you to pull in.
+
+What is one element earn about git and GitHub through this experience?
+I learned how to create a pull request through this experience. 
