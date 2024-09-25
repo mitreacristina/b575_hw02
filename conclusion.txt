@@ -1,0 +1,29 @@
+PROBLEM 1 QUESTION 6:
+
+a) In 2-3 sentences, explain why identifying specific patterns in DNA is 
+important for biological research.
+
+Identify specific patterns is important to understand if something has changed in the DNA sequence 
+(site directed mutagenesis or bisulfite sequencing) or for identifying a site of expected enzyme 
+binding that may direct a certain molecular behavior.
+
+b) In 2-3 sentences, describe how the frequency of your 
+custom pattern might affect its biological role.
+
+The frequency of the pattern can infer on the experimental role or biological of the sequence entered into the example dna. 
+For example, if it appears once in a short or twice in an experimental context we can infer that it is used as target for 
+a restriction enzyme experiment or it will get translated into a selectable marker for  a protein. In a biological context, 
+we could infer that the sequence is a TF site or start/stop codon depending on the length of gene for the particular expression.
+
+
+PROBLEM 2 QUESTION 6:
+
+What was the most challenging part of this assignment?
+
+Visualizing the forked directories from and getting 
+used to order operations for saving changed to Github repositories.
+
+What is one element you learned about git and GitHub through this experience?
+
+I accidentally deleted my repo access token text file. Now I know how to regenerate a token, 
+but it guarantees there will be consequences in the future.
