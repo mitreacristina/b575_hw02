@@ -1,0 +1,10 @@
+1. The most chanllenging part of question_2 is that creating pull requests. At first, I was confused
+about the 'git pull' conmmand and 'create pull requests'. After doing some research, I understood
+that while both concept contains 'pull', they are very different. Git pull is used to fetch and 
+merge changes from a remote repository to the local repository, whereas pull requests is created when
+I want to propose changes I made in forked branch to be reviewed and merged into base repository.
+
+2. I learned many things from this Github assignment. First, I learned how to fork open-resource 
+repository, which could be helpful for my future research. Next, I learned how to colone the forked
+remote repository to my local repository. Furthermore, after making changes in local repository, I 
+could push the changes to my remote repository. Moreover, I learned how to create pull requests.   
