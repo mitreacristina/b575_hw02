@@ -1,0 +1,8 @@
+â€¢ What was the most challenging part of this assignment?
+Overall part 1 of the homework was more challenging to me than part 2.
+I wasn't used to writing pseudocode before this assignment, which thought me to translate a typical python codes to descriptive words.
+From part 2, requesting a pull was new for me, which was sllightly more challenging compared to editing files or adding new files under git.
+
+â€¢ What is one element earn about git and GitHub through this experience?
+I learned to push a branch (sequence_analysis) without merging it with main, showing git's capabilities of independent editing.  
+
