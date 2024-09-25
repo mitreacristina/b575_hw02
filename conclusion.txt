@@ -1,0 +1,5 @@
+What was the most challenging part of this assignment?
+The most challenging part of this assignment was ensuring proper synchronization between my local repository and the remote folk repository. Also, getting familiar with the Git workflow, including forking, cloning, branching, committing, pulling and pushing, was initially a bit confusing.
+
+What is one element earn about git and GitHub through this experience?
+I learned how to create and manage branches in Git, which is crucial for parallel development and keeping work organized. I also gained a deeper understanding of the commit and push request process.
