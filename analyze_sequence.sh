@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Count the number of sequences 
