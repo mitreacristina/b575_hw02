@@ -1,6 +1,6 @@
 What was the most challenging part of this assignment?
 
-I think the most challenge part si to create pull requests
+I think the most challenge part is to create pull requests
 
 What is one element earn about git and GitHub through this experience?
 
