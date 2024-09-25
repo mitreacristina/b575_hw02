@@ -1,0 +1,7 @@
+â€¢   What was the most challenging part of this assignment?
+# The most challenging part of this assignment is to understand the fundamental concenpts that how the git and github works. 
+# And it's better to check the git status regularly to make sure it's the right branch you are looking for to modify the file.
+â€¢   What is one element earn about git and GitHub through this experience?
+# It's good to use git and github to track the file changes. If you want to make a uncertain change, you also can make an new branch to do that. 
+# It is easy to work as a team and track each person's modification to make the group work more easier.
+# It's good way to have a backup for all the files. 
