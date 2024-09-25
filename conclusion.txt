@@ -1,0 +1,1 @@
+This assignment was challenging for me because I feel like we did lots of bash and had many examples, but there were not as many exercises with examples for git. I think a figure that displayed when to git push vs pull would be helpful. I learned how to use GitHub which is how my lab shares important things like protocols, so I can now add to my lab's shared GitHub.
