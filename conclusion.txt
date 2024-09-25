@@ -1,0 +1,5 @@
+What was the most challenging part of this assignment?
+understanding the difference between pushing changes to my forked repository versus the original repository
+
+What is one thing you learned about git and GitHub through this experience?
+understanding of how changes can be organized and tracked in a structured way
