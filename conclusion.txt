@@ -1,0 +1,2 @@
+1. The most challenging part of this assignment was understanding what was expected of our pseudocode. I know now that pseudocode is not bound by any particular syntax and a tool for planning the logic behind a program, but I was (and still am) stressed about writing my pseudocode in an acceptable way.
+2. I learned that Git and Github are useful tools for file management and sharing. However, working with github is rather complicated and not always intuitive. 
