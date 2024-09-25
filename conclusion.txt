@@ -1,0 +1,5 @@
+Question 1: What was the most challenging part of this assignment?
+Answer 1: Ensuring that the steps are done in order after git pull takes a little practice. I had to go back to understand what git add does and make sure to run it before I commit.
+
+Question 2: What is one element earn about git and GitHub through this experience?
+Answer 2: I learned about forking repositories from another github account and the ability to make my own changes on that repo. Also, learned about creating a pull request to the original repo owner. This can be useful for collaboration projects.
