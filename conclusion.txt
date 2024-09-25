@@ -1,0 +1,5 @@
+What was the most challenging part of this assignment?
+- The most challenging part for me was writing pseudocode. I had never written it before, so it took some time to become familiar with it. Additionally, there are a few methods to address one question, so I kept trying to find the simplest solution.
+
+What is one element you learned about git and GitHub through this experience?
+- One element I learned about Git and GitHub is that by committing the changes and pushing them, I can track the changes. This allows me to check the commit history to see what was changed if I want to review the changes.
