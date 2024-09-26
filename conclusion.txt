@@ -1,0 +1,5 @@
+What was the most challenging part of this assignment?
+I think the most challenging part of this assignment is to create oyll requests becuase I am afraid I pull the wrong branch.
+
+What is one element earn about git and GitHub through this experience?
+One element I learned about Git and GitHub through this experience is the importance of version control in a project because Git allows to track changes, work on different branches, and merge contributions, while GitHub provides a platform to manage these tasks, ensuring effective collaboration and avoiding conflicts when multiple people work on the same project.
