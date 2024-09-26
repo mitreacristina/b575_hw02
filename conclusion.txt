@@ -1,0 +1,8 @@
+
+What was the most challenging part of this assignment? Surprisingly navigating Git Hub, now that I'm more familiar with the terminal.
+I need to practice using Git Hub more often.  
+
+What is one element earn about git and GitHub through this experience? All I know up to this point I have learned in this class. I have never used 
+Git Hub or the bash terminal previuosly.I like the version control aspect of Git Hub, and I think it is very useful for working in large teams.
+
+
