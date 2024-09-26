@@ -1,0 +1,10 @@
+What was the most challenging part of this assignment?
+--> The most challenging part of this assignment is to create a pull request.
+I struggled to assign my pull request to cristinamitrea.
+I guess the reason I cannot see this option is that I do not have write access to the repository.
+
+What is one element earn about git and GitHub through this experience?
+--> One key element to learn about Git and GitHub through this experience is the importance of collaboration
+in software development. Specifically, I gain insights into how forking repositories allows multiple 
+developers to work on their own versions of a project independently, while still enabling them to contribute 
+back to the original project through pull requests.
