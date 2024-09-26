@@ -1,0 +1,7 @@
+Q1: What was the most challenging part of this assignment?
+Answer: The most challenging part for me was to stay on the correct branch. 
+For instance, at first, I did all the work on the main branch as I forgot switching to the sequence analysis branch after creating it. 
+
+Q2: Element earned through this experience?
+This is my first time using a fork, and I think this is such a wonderful features in github. 
+This is a perfect features where me and my peers can work on the same assignment and then compare our work and learn from each other. 
