@@ -1,0 +1,3 @@
+1. For me, the most challenging part of this assignment was the first problem because create a pseudocode and code for specific analysis by me it is a little bit complicate.
+
+2. The experience with git and GitHub was interesting because I understand better how to used and the importance of have a repository where other can access to help a project process.
