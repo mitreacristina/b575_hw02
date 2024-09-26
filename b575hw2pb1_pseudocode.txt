@@ -1,0 +1,195 @@
+## Homework 3
+
+# Problem #1 : Sequence Generation
+Sequence generated: AGCGGACGGTGTTGTCGTCA
+
+-------------------------------------------
+
+# Problem #2 : Basic Sequence Analysis
+Psuedocode for an algorithm that counts the frequency of each nucleotide (A, T, C, G) in your sequence
+
+## The algorithm will go through each character of the provided sequence. It will determine if the first character is an A, T, C or G and then add 
+## one to the corresponding count. Then it will move to the next character and repeat this process. This continues until the end of the sequence.
+## The end result displayed will be the count of all the different letters in the sequence.
+
+SET sequence TO 'AGCGGACGGTGTTGTCGTCA'
+SET a_count TO 0
+SET t_count TO 0
+SET c_count TO 0
+SET g_count TO 0
+
+# iterate through each character
+FOR nucleotide IN sequence
+	# identify character and add 1 to the correct count
+	IF nucleotide == "A" THEN
+		SET a_count TO a_count + 1
+	ELIF nucleotide == "T" THEN
+                SET t_count TO t_count + 1
+        ELIF nucleotide == "C" THEN
+                SET c_count TO c_count + 1
+        ELSE
+                SET g_count TO g_count + 1
+	ENDIF
+# continue only if there are following characters
+ENDFOR
+
+# Display all the resulting counts
+DISPLAY "A frequency:", a_count
+DISPLAY "T frequency:", t_count
+DISPLAY "C frequency:", c_count
+DISPLAY "G frequency:", g_count
+
+## WALKTHROUGH
+
+# sequence = 'AGCGGACGGTGTTGTCGTCA'
+# a_count = t_count = c_count = g_count = 0
+
+# first letter: "A" -> a_count = 1
+# second letter: "G" -> g_count = 1
+# third letter: "C" -> c_count = 1
+# fourth letter: "G" -> g_count = 2
+# fifth letter: "G" -> g_count = 3
+...
+# last letter: "A" -> a_count = 3
+
+## RESULT DISPLAYED
+# A frequency: 3
+# T frequency: 5
+# C frequency: 4
+# G frequency: 8
+
+-------------------------------------------
+
+# Problem #3 : Custom Pattern Design
+Research result (common DNA patterns)
+- Steroid hormone receptors (NR3)
+- AAGAACAGAATGTTC
+
+a) Custom pattern (that is a. 4-6bps long & b. inspired by the common DNA pattern above)
+	GTTC
+
+b) Why did I choose this pattern?
+
+I choose this pattern because it is inspired by the last four base pairs in the sequence for steroid hormone receptors (NR3).
+These receptors are important to the pathways responsible for maintaining large biological functions that can range from sexual 
+differentiation to electrolyte balance.
+
+-------------------------------------------
+
+# Problem #4 : Pattern Search
+Custom pattern insertion result
+	GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC	
+
+## The algorithm will go each letter in the sequence and see if it and the 3 following characters match the 4 letters of the custom pattern, 
+## 'GTTC'. If it doesn't match, the algorithm continues without checking later characters. If all characters match, the indices of the letters is 
+## added to an initially empty list. The final result displayed is the list of indices.
+
+# assume there is a LENGTH function to give the length of a string set last index to be checked
+SET sequence TO 'GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC'
+SET insertion TO 'GTTC'
+SET patt_start TO 0
+SET patt_end = patt_start + LENGTH(insertion) - 1
+SET indices_list TO []
+
+# iterate through each character
+REPEAT
+	# check if the pattern matches
+	IF sequence[patt_start: patt_end] == insertion
+		APPEND [patt_start: patt_end] TO indices_list
+	ELSE
+		CONTINUE
+
+	# reassign index to prep for next iteration
+	SET patt_start TO patt_start + 1
+	SET patt_end = patt_start + LENGTH(insertion) - 1
+
+# repeat if there are enough letters
+UNTIL patt_end > LENGTH(sequence)
+
+# display the resulting list
+DISPLAY "The indices of the pattern are:", indices_list
+
+## WALKTHROUGH
+
+# sequence = 'GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC'
+# insertion = 'GTTC'
+# patt_start = 0
+# patt_end = 3
+# indices_list = []
+
+# sequence[0:3] == insertion
+# indices_list = [[0:3]]
+# sequence[1:4] != insertion
+# indices_list = [[0:3]]
+# sequence[2:5] != insertion
+# indices_list = [[0:3]]
+# sequence[3:6] != insertion
+# indices_list = [[0:3]]
+# sequence[4:7] != insertion
+# indices_list = [[0:3]]
+...
+# sequence[16:19] == insertion
+# indices_list = [[0:3], [14:17], [28:31]]
+
+## RESULT DISPLAYED
+# The indices of the pattern are: [[0:3], [14:17], [28:31]]
+
+-------------------------------------------
+
+# Problem #5 : Complementary Sequence
+The goal complementary strand
+	GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC
+	CAAGTCGCCTGCCACAAGCAACAGCAGTCAAG
+
+
+## The algorithm will 
+
+SET sequence TO 'GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC'
+SET complement TO ''
+
+# iterate through each character
+FOR nucleotide IN sequence
+	# identify character and add the correct pair to the complement
+	IF nucleotide == "A"
+		APPEND "T" TO complement 
+	ELIF nucleotide == "T"
+		APPEND "A" TO complement 
+	ELIF nucleotide == "C"
+		APPEND "G" TO complement 
+	ELSE
+		APPEND "C" TO complement
+# repeat until end of sequence
+END FOR
+
+# display results
+DISPLAY "The complementary sequence is:", complement
+
+
+## WALKTHROUGH
+
+# sequence = 'GTTCAGCGGACGGTGTTCGTTGTCGTCAGTTC'
+# complement = ''
+
+## nucleotide = 'G'
+## complement = 'C'
+## nucleotide = 'T'
+## complement = 'CA'
+## nucleotide = 'T'
+## complement = 'CAA'
+## nucleotide = 'C'
+## complement = 'CAAG'
+...
+## nucleotide = 'C'
+## complement = 'CAAGTCGCCTGCCACAAGCAACAGCAGTCAAG'
+
+## RESULT DISPLAYED
+# The complementary sequence is: CAAGTCGCCTGCCACAAGCAACAGCAGTCAAG
+
+-------------------------------------------
+
+# Problem #6 : Conclusion
+
+a) Identifying specific patterns in DNA is for biological research because it helps us understand the underlying mechanisms of genes, illness, and evolution. For example, certain patterns could help us identify the root source of certain biological traits or health conditions. This deeper understanding helps us create better biological tools to improve human health.
+
+b) If the frequency of the pattern is very great, this could be a hint that the pattern is important. It may suggest the pattern is essential for some biological function or is structurally necessary. It we know the function of the sequence, we can also determine how important that traits is to the organism's survival.
+
