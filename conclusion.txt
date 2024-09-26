@@ -1,0 +1,3 @@
+1. I think that the most difficult part for me is actually understanding the concepts of forks, branches, and merging. I understand GitHub for version control with your own code and repository, but understanding the 'rules' and errors that can happen with pull requests to other people's repositories. Also I am doing this all on the GreatLakes cluster so it's even more confusing sometimes. 
+
+2. I got some good practice with staging and pushing files to my own repository which was nice. At the beginning was having a hard time remembering the order to add -> commit -> push and would try to just add and then push or commit without adding. 
