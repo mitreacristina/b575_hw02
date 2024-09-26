@@ -1,0 +1,4 @@
+1. The most challenging part of the Git assignment for me was navigating to the correct folder after cloning the git branch on my local machine. I initially forgot to navigate into the git folder and then had to recreate the files once I changed to the right directory.
+2. One element that I learned about Git and Github from this experience was that I can duplicate someone else's branch from their Github by forking it and then working on it as an exact copy. After the fact, you can send your edits to the original owner as a pull request and they will be able to see exactly what you changed and merge it into their own branch. 
+ 
+
