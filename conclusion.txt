@@ -1,0 +1,10 @@
+// The most challenging part of this assingment was assinging the pull request to mitreacristina (by the way, the pdf homework assignment says that
+// your Github username is cristinamitrea, which appears to be untrue). When I went to submit the pull request, there was an "assign" tab, but it did not have the option to assign a user to the pull request.
+// It was only once I sorted all of the pull requests by assignee, that I realized that only one person had successfully assigned their requests to mitreacristina, and that there was probably some problem with the system or permissions rather than with me.
+// I still haven't figured out why that is at the time of writing this, but I hope to soon.
+
+ 
+
+// Previously, when using GitHub, I hadn't really concerned myself with forking a repository.  I had only cloned repositories before and pushed my local changes to the remote repository that I had permission to edit directly.
+// I also learned, from getting a warning message, that there are different line endings for Linux/Unix+Mac systems and Windows (LF vs. CRLF).  I left the files as-is, especially because I am not trying to run them right now.
+ 
