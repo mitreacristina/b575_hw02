@@ -1,0 +1,7 @@
+6. (1.5 points) Conclusion
+- Create a file named conclusion.txt in your local repository and answer the following questions in 2-3 sentences:
+â€¢ What was the most challenging part of this assignment?
+â€¢ What is one element earn about git and GitHub through this experience?
+- Submit Conclusion: Add, commit, and push the new file conclusion.txt
+
+The most challenging part was figuring out how to pull and push to github.
