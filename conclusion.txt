@@ -1,0 +1,8 @@
+1.  What was the most challenging part of this assignment?
+Creating a pull request and making sure it is assigned to the original repository.
+
+2.  What is one element earn about git and GitHub through this experience?
+Using git and GitHub taught me to keep track of changes in my code, making it easier to collaborate with others. I also learnt how to manage different versions of the project and collaborate effectively through features like branches and pull requests.
+
+
+
