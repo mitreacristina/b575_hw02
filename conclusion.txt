@@ -1,0 +1,3 @@
+The most challenging part of this assignment is to create a new branch and push the branch. At first I was struggling with the passwords of my github accound, until I found that I cannot use the password I set before, but to use a generated token from the github website. And to push the new created branch required setting upstream and I tried to understand that for some time.
+
+One element learnt is how to do pull request. I think this is very important and useful when coding with others in the future.
