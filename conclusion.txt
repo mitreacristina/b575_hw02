@@ -1,0 +1,4 @@
+The most challenging part of this assignment was figuring out how to assign my branch to you, which i could not figure out. I did panic a bit on part 3 and adding the dna sequence but then I used nano to open the file and add it directly. 
+I liked learning hands on about the branches. Also seeing Github validate my work as it was added was really cool and made me proud of my work. 
+
+
