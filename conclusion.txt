@@ -1,0 +1,6 @@
+What was the most challenging part of this assignment?
+The most challenging part of this assignment was navigating the GitHub interface and learning how to assign people to requests.
+
+What is one element earn about git and GitHub through this experience?
+I was able to visually understand how forks are created and how edits on file look through the GitHub interface. 
+
