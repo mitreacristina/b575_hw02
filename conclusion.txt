@@ -1,0 +1,3 @@
+(1) To me, he most challenging part of the assignment was navigating the GitHub interface for creating pull requests and ensuring that the correct branches were being compared and merged, which I haven't done before. The whole process of forking a repository, managing branches, and ensuring changes were properly staged, committed, and pushed, is very helpful to me since I'll also use GitHub for research in the future.
+(2) Through this experience, I learned how essential branching is in collaborative projects. Creating separate branches for new features, like the sequence analysis script, allows developers to work independently without affecting the main project, making it easier to review, test, and integrate changes systematically.
+ 
