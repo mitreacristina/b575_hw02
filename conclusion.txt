@@ -1,0 +1,15 @@
+### 
+QUESTION 6
+###
+
+- what is the most challenging part of this assignment?
+answer: keeping up with the filenanmes and my working directory. It took me longer than ideal for me to\
+figure out what branch I was working in and which files I needed to open/edit/submit. This is a personal\
+issue since there were only a handful of files in the directory for HW2 pulled from github, but definitely\
+something I want to improve on. 
+
+-what is one element earn about git an GitHun though this experience?
+answer: one element I was able to learn was how making changes on the local device wont affect the file
+in GitHub until I actually use git add. Its nice that copies are made to the local device and I'm free to
+manipulate them idependently to my liking before adding the changes to the original file. Even then with \
+git add, the changes still have to be accepted through merging. 
