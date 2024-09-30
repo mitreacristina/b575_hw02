@@ -1,0 +1,3 @@
+The most challenging part of this assignment was learning how to write out psudeocode and organizing the syntaz.
+In terms of question two th emost challenging part was figuring out how to create and push my own branch.
+On element I learned about git and Github through this experince is how to create a pull request specfically with a branch and the orginal repo.
