@@ -1,0 +1,3 @@
+The most challenging part of this assignment was researching a common DNA pattern and 
+designing a custom DNA pattern inspired by it. I learned how to create a pull request
+from a fork in order to merge repositories.
